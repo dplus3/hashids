@@ -174,3 +174,7 @@ c, f, h, i, s, t, u
 ## License
 
 [MIT](LICENSE) © [Ivan Akimov](https://barreleye.com/)
+
+## Modifications
+
+@dplus3
